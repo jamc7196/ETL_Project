@@ -1,0 +1,853 @@
+MatchID,RoundID,cup_id,Stage,City,Stadium,Attendance
+25,323,1990,Round of 16,Turin ,Stadio delle Alpi,61381
+26,322,1990,Group B,Milan ,Giuseppe Meazza,73780
+27,3462,1990,Final,Rome ,Stadio Olimpico,73603
+28,3464,1990,Semi-finals,Naples ,San Paolo,59978
+29,322,1990,Group B,Naples ,San Paolo,52733
+30,322,1990,Group B,Naples ,San Paolo,55759
+31,751,1990,Quarter-finals,Florence ,Comunale,38971
+42,322,1990,Group A,Rome ,Stadio Olimpico,73303
+43,322,1990,Group A,Florence ,Comunale,38962
+48,322,1990,Group A,Florence ,Comunale,34857
+55,323,1990,Round of 16,Bologna ,Renato Dall Ara,34520
+56,322,1990,Group E,Verona ,Marc Antonio Bentegodi,35950
+57,322,1990,Group E,Verona ,Marc Antonio Bentegodi,32790
+66,322,1990,Group E,Verona ,Marc Antonio Bentegodi,33759
+73,322,1990,Group C,Turin ,Stadio delle Alpi,58007
+74,322,1990,Group C,Turin ,Stadio delle Alpi,62502
+75,322,1990,Group C,Turin ,Stadio delle Alpi,62628
+102,323,1990,Round of 16,Naples ,San Paolo,50026
+103,751,1990,Quarter-finals,Naples ,San Paolo,55205
+108,322,1990,Group B,Bari ,Stadio San Nicola,38687
+111,322,1990,Group B,Bari ,Stadio San Nicola,37307
+114,322,1990,Group D,Milan ,Giuseppe Meazza,72510
+119,322,1990,Group D,Bologna ,Renato Dall Ara,30791
+120,322,1990,Group D,Bologna ,Renato Dall Ara,32257
+127,322,1990,Group C,Genoa ,Luigi Ferraris,30867
+128,322,1990,Group C,Genoa ,Luigi Ferraris,30223
+129,323,1990,Round of 16,Bari ,Stadio San Nicola,47673
+150,322,1990,Group F,Cagliari ,Sant Elia,34959
+151,322,1990,Group F,Palermo ,Della Favorita,33288
+152,322,1990,Group F,Palermo ,Della Favorita,33288
+159,3464,1990,Semi-finals,Turin ,Stadio delle Alpi,62628
+160,322,1990,Group F,Cagliari ,Sant Elia,35267
+161,322,1990,Group F,Cagliari ,Sant Elia,35238
+162,3463,1990,Match for third place,Bari ,Stadio San Nicola,51426
+175,322,1990,Group E,Udine ,Dacia Arena,32733
+180,322,1990,Group E,Udine ,Dacia Arena,35713
+181,323,1990,Round of 16,Verona ,Marc Antonio Bentegodi,35500
+196,323,1990,Round of 16,Milan ,Giuseppe Meazza,74559
+197,751,1990,Quarter-finals,Milan ,Giuseppe Meazza,73347
+198,322,1990,Group D,Milan ,Giuseppe Meazza,71169
+201,322,1990,Group D,Milan ,Giuseppe Meazza,74765
+228,322,1990,Group F,Palermo ,Della Favorita,33288
+243,751,1990,Quarter-finals,Rome ,Stadio Olimpico,73303
+248,323,1990,Round of 16,Genoa ,Luigi Ferraris,31818
+263,322,1990,Group A,Rome ,Stadio Olimpico,73303
+264,323,1990,Round of 16,Rome ,Stadio Olimpico,73303
+265,322,1990,Group A,Rome ,Stadio Olimpico,73423
+290,322,1990,Group E,Udine ,Friuli,29039
+342,322,1990,Group B,Bari ,Stadio San Nicola,42907
+348,322,1990,Group C,Genoa ,Luigi Ferraris,31823
+355,322,1990,Group A,Florence ,Comunale,33266
+364,322,1990,Group D,Bologna ,Renato Dall Ara,27833
+377,308,1986,Group D,Guadalajara ,Jalisco,48000
+378,308,1986,Group D,Monterrey ,Tecnologico,23980
+379,308,1986,Group D,Guadalajara ,Tres de Marzo,22000
+388,3469,1986,Semi-finals,Mexico City ,Estadio Azteca,114500
+389,308,1986,Group A,Mexico City ,Estadio Ol�mpico Universitario,65000
+392,714,1986,Quarter-finals,Mexico City ,Estadio Azteca,114580
+393,3467,1986,Final,Mexico City ,Estadio Azteca,114600
+394,308,1986,Group A,Puebla ,Cuauhtemoc,32000
+395,308,1986,Group A,Mexico City ,Estadio Ol�mpico Universitario,60000
+398,309,1986,Round of 16,Puebla ,Cuauhtemoc,26000
+421,714,1986,Quarter-finals,Puebla ,Cuauhtemoc,45000
+422,3468,1986,Match for third place,Puebla ,Cuauhtemoc,21000
+427,308,1986,Group B,Toluca ,Bombonera - Estadio Nemesio Diez,20000
+428,308,1986,Group B,Mexico City ,Estadio Azteca,110000
+429,308,1986,Group B,Toluca ,Bombonera - Estadio Nemesio Diez,16000
+432,309,1986,Round of 16,Leon ,Nou Camp - Estadio Le�n,32277
+439,308,1986,Group D,Guadalajara ,Jalisco,35748
+440,714,1986,Quarter-finals,Guadalajara ,Jalisco,65000
+441,308,1986,Group D,Guadalajara ,Jalisco,51000
+444,309,1986,Round of 16,Guadalajara ,Jalisco,45000
+459,308,1986,Group A,Mexico City ,Estadio Azteca,96000
+460,308,1986,Group A,Mexico City ,Estadio Ol�mpico Universitario,45000
+463,309,1986,Round of 16,Mexico City ,Estadio Azteca,114580
+468,308,1986,Group C,Leon ,Nou Camp - Estadio Le�n,65500
+475,308,1986,Group C,Irapuato ,Estadio Irapuato,13800
+476,308,1986,Group C,Irapuato ,Estadio Irapuato,14200
+511,309,1986,Round of 16,Queretaro ,Estadio Corregidora,38500
+512,308,1986,Group E,Queretaro ,Estadio Corregidora,36000
+517,308,1986,Group E,Nezahualcoyotl ,Neza,18000
+522,308,1986,Group E,Nezahualcoyotl ,Neza,26500
+533,308,1986,Group F,Monterrey ,Tecnologico,20200
+536,309,1986,Round of 16,Mexico City ,Estadio Azteca,98728
+537,308,1986,Group F,Monterrey ,Tecnologico,22700
+538,308,1986,Group F,Monterrey ,Tecnologico,23000
+551,308,1986,Group D,Guadalajara ,Tres de Marzo,28000
+564,3469,1986,Semi-finals,Guadalajara ,Jalisco,45000
+567,308,1986,Group C,Leon ,Nou Camp - Estadio Le�n,31420
+568,309,1986,Round of 16,Mexico City ,Estadio Ol�mpico Universitario,70000
+571,308,1986,Group C,Leon ,Nou Camp - Estadio Le�n,36540
+574,309,1986,Round of 16,Monterrey ,Estadio Universitario,19800
+575,714,1986,Quarter-finals,Monterrey ,Estadio Universitario,41700
+580,308,1986,Group E,Queretaro ,Estadio Corregidora,30000
+585,308,1986,Group E,Queretaro ,Estadio Corregidora,30500
+610,308,1986,Group C,Irapuato ,Estadio Irapuato,16500
+627,308,1986,Group B,Mexico City ,Estadio Azteca,103763
+628,308,1986,Group B,Toluca ,Bombonera - Estadio Nemesio Diez,24000
+643,308,1986,Group A,Puebla ,Cuauhtemoc,20000
+674,308,1986,Group F,Monterrey ,Estadio Universitario,19900
+675,308,1986,Group F,Guadalajara ,Tres de Marzo,28000
+680,308,1986,Group B,Mexico City ,Estadio Azteca,114600
+701,308,1986,Group F,Monterrey ,Estadio Universitario,19915
+712,308,1986,Group E,Nezahualcoyotl ,Neza,20000
+739,293,1982,Group 2,Oviedo ,Carlos Tartiere,22000
+740,293,1982,Group 2,Oviedo ,Carlos Tartiere,16000
+741,293,1982,Group 2,Gijon ,El Molinon,42000
+749,293,1982,Group 3,Barcelona ,Camp Nou,95000
+750,294,1982,Group 3,Barcelona ,Sarria,44000
+751,293,1982,Group 3,Alicante ,Jose Rico Perez,32500
+752,293,1982,Group 3,Alicante ,Jose Rico Perez,32093
+753,294,1982,Group 3,Barcelona ,Sarria,43000
+764,293,1982,Group 2,Oviedo ,Carlos Tartiere,22500
+767,294,1982,Group 4,Madrid ,Vicente Calderon,37000
+770,293,1982,Group 2,Gijon ,El Molinon,41000
+771,294,1982,Group 4,Madrid ,Vicente Calderon,20000
+774,293,1982,Group 3,Elche ,Nuevo Estadio,15000
+779,293,1982,Group 3,Elche ,Nuevo Estadio,37000
+782,294,1982,Group 1,Barcelona ,Camp Nou,65000
+783,294,1982,Group 1,Barcelona ,Camp Nou,45000
+788,294,1982,Group 3,Barcelona ,Sarria,44000
+789,293,1982,Group 6,Seville ,Benito Villamarin,43000
+790,293,1982,Group 6,Seville ,Benito Villamarin,47379
+791,293,1982,Group 6,Seville ,Ramon Sanchez Pizjuan,68000
+813,293,1982,Group 2,Gijon ,El Molinon,42000
+828,293,1982,Group 1,Vigo ,Estadio Municipal de Bala�dos,20000
+833,293,1982,Group 1,La Coru�A ,Riazor,11000
+834,293,1982,Group 1,La Coru�A ,Riazor,19000
+877,294,1982,Group 2,Madrid ,Santiago Bernabeu,75000
+878,293,1982,Group 4,Bilbao ,San Mames,44172
+879,294,1982,Group 2,Madrid ,Santiago Bernabeu,75000
+882,293,1982,Group 4,Bilbao ,San Mames,39700
+889,293,1982,Group 4,Bilbao ,San Mames,41123
+896,293,1982,Group 3,Elche ,Nuevo Estadio,23000
+900,294,1982,Group 2,Madrid ,Santiago Bernabeu,90089
+901,293,1982,Group 5,Valencia ,Luis Casanova,49562
+902,293,1982,Group 5,Valencia ,Luis Casanova,49562
+903,293,1982,Group 5,Valencia ,Luis Casanova,48000
+914,295,1982,Semi-finals,Seville ,Ramon Sanchez Pizjuan,70000
+919,293,1982,Group 4,Valladolid ,Jose Zorrilla,30043
+920,294,1982,Group 4,Madrid ,Vicente Calderon,37000
+921,676,1982,Match for third place,Alicante ,Jose Rico Perez,28000
+922,293,1982,Group 4,Valladolid ,Jose Zorrilla,28000
+923,3475,1982,Final,Madrid ,Santiago Bernabeu,90000
+959,293,1982,Group 5,Zaragoza ,La Romareda,15000
+962,293,1982,Group 5,Zaragoza ,La Romareda,25000
+994,293,1982,Group 1,Vigo ,Estadio Municipal de Bala�dos,25000
+995,293,1982,Group 1,Vigo ,Estadio Municipal de Bala�dos,33000
+996,295,1982,Semi-finals,Barcelona ,Camp Nou,50000
+1012,293,1982,Group 4,Valladolid ,Jose Zorrilla,25000
+1044,293,1982,Group 5,Zaragoza ,La Romareda,25000
+1051,293,1982,Group 6,Malaga ,La Rosaleda,36000
+1054,293,1982,Group 6,Malaga ,La Rosaleda,19000
+1055,293,1982,Group 1,La Coru�A ,Riazor,25000
+1058,294,1982,Group 1,Barcelona ,Camp Nou,65000
+1071,293,1982,Group 6,Malaga ,La Rosaleda,45000
+1084,201,1930,Group 1,Montevideo ,Estadio Centenario,41459
+1085,201,1930,Group 1,Montevideo ,Parque Central,23409
+1086,201,1930,Group 1,Montevideo ,Estadio Centenario,42100
+1087,405,1930,Final,Montevideo ,Estadio Centenario,68346
+1088,202,1930,Semi-finals,Montevideo ,Estadio Centenario,72886
+1089,201,1930,Group 4,Montevideo ,Estadio Centenario,12000
+1090,201,1930,Group 4,Montevideo ,Parque Central,18346
+1091,201,1930,Group 2,Montevideo ,Estadio Centenario,25466
+1092,201,1930,Group 2,Montevideo ,Parque Central,18306
+1093,201,1930,Group 2,Montevideo ,Parque Central,24059
+1094,201,1930,Group 1,Montevideo ,Estadio Centenario,2000
+1095,201,1930,Group 1,Montevideo ,Parque Central,9249
+1096,201,1930,Group 1,Montevideo ,Pocitos,4444
+1097,201,1930,Group 4,Montevideo ,Parque Central,18306
+1098,201,1930,Group 3,Montevideo ,Pocitos,2549
+1099,201,1930,Group 3,Montevideo ,Estadio Centenario,57735
+1100,201,1930,Group 3,Montevideo ,Estadio Centenario,70022
+1101,202,1930,Semi-finals,Montevideo ,Estadio Centenario,79867
+1102,204,1934,Preliminary round,Bologna ,Littorale,14000
+1104,204,1934,Preliminary round,Turin ,Stadio Benito Mussolini,16000
+1105,3491,1934,Match for third place,Naples ,Giorgio Ascarelli,7000
+1106,418,1934,Quarter-finals,Bologna ,Littorale,23000
+1107,3492,1934,Semi-finals,Milan ,San Siro,35000
+1108,204,1934,Preliminary round,Florence ,Giovanni Berta,8000
+1111,204,1934,Preliminary round,Genoa ,Luigi Ferraris,21000
+1119,204,1934,Preliminary round,Naples ,Giorgio Ascarelli,9000
+1122,418,1934,Quarter-finals,Florence ,Giovanni Berta,35000
+1123,418,1934,Quarter-finals,Florence ,Giovanni Berta,43000
+1129,418,1934,Quarter-finals,Milan ,San Siro,3000
+1130,3492,1934,Semi-finals,Rome ,Nazionale PNF,15000
+1133,204,1934,Preliminary round,Milan ,San Siro,33000
+1134,3490,1934,Final,Rome ,Nazionale PNF,55000
+1135,204,1934,Preliminary round,Rome ,Nazionale PNF,25000
+1141,204,1934,Preliminary round,Trieste ,Littorio,9000
+1143,418,1934,Quarter-finals,Turin ,Stadio Benito Mussolini,12000
+1146,206,1938,First round,Colombes ,Stade Olympique,30454
+1149,3489,1938,Semi-finals,Marseilles ,Stade V�lodrome,33000
+1150,206,1938,First round,Strasbourg ,Stade de la Meinau,13452
+1151,3488,1938,Match for third place,Bordeaux ,Stade du Parc Lescure,12000
+1152,429,1938,Quarter-finals,Bordeaux ,Stade du Parc Lescure,22021
+1153,429,1938,Quarter-finals,Bordeaux ,Stade du Parc Lescure,18141
+1156,206,1938,First round,Toulouse ,Stade Municipal,7000
+1157,206,1938,First round,Toulouse ,Stade Municipal,8000
+1158,429,1938,Quarter-finals,Antibes ,Fort Carree,7000
+1164,429,1938,Quarter-finals,Colombes ,Stade Olympique,58455
+1165,206,1938,First round,Paris ,Parc des Princes,27152
+1166,206,1938,First round,Paris ,Parc des Princes,20025
+1172,206,1938,First round,Le Havre ,Cavee Verte,11000
+1173,206,1938,First round,Reims ,Velodrome Municipale,9000
+1174,3487,1938,Final,Colombes ,Stade Olympique,45000
+1175,429,1938,Quarter-finals,Lille ,Victor Boucquey,15000
+1176,3489,1938,Semi-finals,Paris ,Parc des Princes,20000
+1179,206,1938,First round,Marseilles ,Stade V�lodrome,19000
+1185,208,1950,Group 4,Belo Horizonte ,Independencia,5284
+1186,209,1950,Group 6,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,152772
+1187,208,1950,Group 1,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,81649
+1188,208,1950,Group 1,Sao Paulo ,Pacaembu,42032
+1189,209,1950,Group 6,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,138886
+1190,209,1950,Group 6,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,173850
+1191,208,1950,Group 1,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,142429
+1192,208,1950,Group 2,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,29703
+1193,208,1950,Group 2,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,19790
+1194,208,1950,Group 2,Recife ,Ilha do Retiro,8501
+1199,208,1950,Group 2,Rio De Janeiro ,Maracan� - Est�dio Jornalista M�rio Filho,74462
+1202,208,1950,Group 2,Belo Horizonte ,Independencia,10151
+1206,209,1950,Group 6,Sao Paulo ,Pacaembu,11227
+1207,209,1950,Group 6,Sao Paulo ,Pacaembu,44802
+1208,208,1950,Group 2,Curitiba ,Durival de Brito,9511
+1218,208,1950,Group 3,Sao Paulo ,Pacaembu,25811
+1219,208,1950,Group 3,Sao Paulo ,Pacaembu,36502
+1222,208,1950,Group 1,Porto Alegre ,Eucaliptos,3580
+1225,208,1950,Group 1,Porto Alegre ,Eucaliptos,11078
+1228,208,1950,Group 3,Curitiba ,Durival de Brito,7903
+1230,208,1950,Group 1,Belo Horizonte ,Independencia,7336
+1231,209,1950,Group 6,Sao Paulo ,Pacaembu,7987
+1233,462,1954,Semi-finals,Basel ,St. Jakob,58000
+1236,211,1954,Group 3,Zurich ,Hardturm,25000
+1237,212,1954,Quarter-finals,Lausanne ,La Pontaise,35000
+1238,211,1954,Group 3,Zurich ,Hardturm,26000
+1239,3485,1954,Match for third place,Zurich ,Hardturm,32000
+1240,211,1954,Group 4,Basel ,St. Jakob,14000
+1243,211,1954,Group 4,Lugano ,Comunale di Cornaredo,24000
+1248,212,1954,Quarter-finals,Berne ,Wankdorf Stadium,40000
+1249,211,1954,Group 1,Geneva ,Charmilles,13470
+1252,211,1954,Group 1,Lausanne ,La Pontaise,24637
+1263,211,1954,Group 4,Berne ,Wankdorf Stadium,43500
+1264,212,1954,Quarter-finals,Basel ,St. Jakob,28000
+1275,211,1954,Group 1,Geneva ,Charmilles,19000
+1276,211,1954,Group 1,Lausanne ,La Pontaise,16000
+1277,211,1954,Group 2,Basel ,St. Jakob,56000
+1278,3484,1954,Final,Berne ,Wankdorf Stadium,62500
+1283,211,1954,Group 2,Berne ,Wankdorf Stadium,28000
+1284,211,1954,Group 2,Zurich ,Hardturm,17000
+1285,212,1954,Quarter-finals,Geneva ,Charmilles,17000
+1294,211,1954,Group 2,Zurich ,Hardturm,13000
+1295,462,1954,Semi-finals,Lausanne ,La Pontaise,45000
+1300,211,1954,Group 4,Lausanne ,La Pontaise,43000
+1301,211,1954,Group 4,Basel ,St. Jakob,30000
+1304,211,1954,Group 2,Geneva ,Charmilles,4000
+1313,211,1954,Group 3,Basel ,St. Jakob,34000
+1315,211,1954,Group 3,Berne ,Wankdorf Stadium,20500
+1323,220,1958,Group 1,Malm� ,Malmo Stadion,31156
+1324,220,1958,Group 1,Halmstad ,Orjans Vall,14174
+1325,220,1958,Group 1,Helsingborg ,Olympia Stadium,16418
+1326,220,1958,Group 4,Udevalla ,Rimnersvallen,17788
+1327,220,1958,Group 4,Boras ,Ryavallen,15872
+1332,220,1958,Group 4,Boras ,Ryavallen,21239
+1339,220,1958,Group 4,Gothenburg ,Nya Ullevi,40895
+1340,488,1958,Semi-finals,Solna ,Rasunda Stadium,27100
+1343,3482,1958,Final,Solna ,Rasunda Stadium,49737
+1344,220,1958,Group 4,Gothenburg ,Nya Ullevi,50928
+1345,221,1958,Quarter-finals,Gothenburg ,Nya Ullevi,25923
+1372,220,1958,Group 4,Gothenburg ,Nya Ullevi,49348
+1373,220,1958,Group 4,Gothenburg ,Nya Ullevi,23182
+1382,3483,1958,Match for third place,Gothenburg ,Nya Ullevi,32483
+1385,221,1958,Quarter-finals,Norrk�Ping ,Idrottsparken,11800
+1386,220,1958,Group 2,Norrk�Ping ,Idrottsparken,16518
+1387,220,1958,Group 2,Orebro ,Eyravallen,13554
+1388,220,1958,Group 2,Vasteras ,Arosvallen,12217
+1389,220,1958,Group 1,Malm� ,Malmo Stadion,21990
+1390,488,1958,Semi-finals,Gothenburg ,Nya Ullevi,49471
+1391,220,1958,Group 1,Helsingborg ,Olympia Stadium,25000
+1392,221,1958,Quarter-finals,Malm� ,Malmo Stadion,20055
+1403,220,1958,Group 3,Sandviken ,Jarnvallen,13300
+1406,220,1958,Group 3,Solna ,Rasunda Stadium,38850
+1407,220,1958,Group 3,Sandviken ,Jarnvallen,15343
+1408,220,1958,Group 3,Solna ,Rasunda Stadium,2823
+1415,220,1958,Group 3,Solna ,Rasunda Stadium,34107
+1418,220,1958,Group 3,Solna ,Rasunda Stadium,15150
+1421,220,1958,Group 1,Halmstad ,Orjans Vall,10647
+1422,220,1958,Group 1,Malm� ,Malmo Stadion,6196
+1423,220,1958,Group 2,Norrk�Ping ,Idrottsparken,11665
+1426,220,1958,Group 2,Eskilstuna ,Tunavallen,13103
+1434,220,1958,Group 2,Vasteras ,Arosvallen,9591
+1437,221,1958,Quarter-finals,Solna ,Rasunda Stadium,31900
+1438,220,1958,Group 3,Solna ,Rasunda Stadium,30287
+1447,231,1962,Group 4,Rancagua ,Estadio El Teniente-Codelco,7134
+1450,231,1962,Group 4,Rancagua ,Estadio El Teniente-Codelco,9794
+1451,231,1962,Group 4,Rancagua ,Estadio El Teniente-Codelco,7945
+1458,514,1962,Semi-finals,Santiago De Chile ,Nacional,76594
+1459,232,1962,Quarter-finals,Vina Del Mar ,Estadio Sausalito,17736
+1460,231,1962,Group 3,Vina Del Mar ,Estadio Sausalito,18715
+1461,231,1962,Group 3,Vina Del Mar ,Estadio Sausalito,10484
+1462,231,1962,Group 3,Vina Del Mar ,Estadio Sausalito,14903
+1463,3480,1962,Final,Santiago De Chile ,Nacional,68679
+1464,231,1962,Group 4,Rancagua ,Estadio El Teniente-Codelco,5700
+1470,231,1962,Group 4,Rancagua ,Estadio El Teniente-Codelco,7442
+1471,231,1962,Group 2,Santiago De Chile ,Nacional,67224
+1472,231,1962,Group 2,Santiago De Chile ,Nacional,66057
+1473,231,1962,Group 2,Santiago De Chile ,Nacional,65006
+1474,232,1962,Quarter-finals,Arica ,Carlos Dittborn,17268
+1475,3481,1962,Match for third place,Santiago De Chile ,Nacional,66697
+1478,231,1962,Group 1,Arica ,Carlos Dittborn,8040
+1479,231,1962,Group 1,Arica ,Carlos Dittborn,7908
+1480,231,1962,Group 1,Arica ,Carlos Dittborn,7167
+1490,231,1962,Group 4,Rancagua ,Estadio El Teniente-Codelco,7938
+1497,231,1962,Group 3,Vina Del Mar ,Estadio Sausalito,11875
+1498,231,1962,Group 3,Vina Del Mar ,Estadio Sausalito,12700
+1507,231,1962,Group 2,Santiago De Chile ,Nacional,65440
+1510,231,1962,Group 2,Santiago De Chile ,Nacional,64922
+1511,232,1962,Quarter-finals,Santiago De Chile ,Nacional,63324
+1525,232,1962,Quarter-finals,Rancagua ,Estadio El Teniente-Codelco,11690
+1532,231,1962,Group 2,Santiago De Chile ,Nacional,59828
+1544,231,1962,Group 3,Vina Del Mar ,Estadio Sausalito,10648
+1559,514,1962,Semi-finals,Vina Del Mar ,Estadio Sausalito,5890
+1562,231,1962,Group 1,Arica ,Carlos Dittborn,9973
+1563,231,1962,Group 1,Arica ,Carlos Dittborn,9622
+1564,231,1962,Group 1,Arica ,Carlos Dittborn,8829
+1577,239,1966,Quarter-finals,London ,Wembley Stadium,90584
+1578,238,1966,Group 2,Birmingham ,Villa Park,42738
+1579,238,1966,Group 2,Birmingham ,Villa Park,46587
+1582,238,1966,Group 2,Sheffield ,Hillsborough,32127
+1596,238,1966,Group 3,Liverpool ,Goodison Park,47308
+1597,238,1966,Group 3,Liverpool ,Goodison Park,51387
+1598,238,1966,Group 3,Liverpool ,Goodison Park,58479
+1599,238,1966,Group 3,Manchester ,Old Trafford Stadium,24129
+1602,238,1966,Group 3,Manchester ,Old Trafford Stadium,25438
+1608,238,1966,Group 4,Sunderland ,Roker Park Ground,27199
+1609,238,1966,Group 4,Middlesbrough ,Ayresome Park,13792
+1610,238,1966,Group 4,Sunderland ,Roker Park Ground,16027
+1632,238,1966,Group 1,London ,Wembley Stadium,98270
+1633,3478,1966,Final,London ,Wembley Stadium,96924
+1634,238,1966,Group 1,London ,Wembley Stadium,92570
+1635,536,1966,Semi-finals,London ,Wembley Stadium,94493
+1636,238,1966,Group 1,London ,Wembley Stadium,87148
+1637,238,1966,Group 2,Birmingham ,Villa Park,42187
+1641,238,1966,Group 2,Sheffield ,Hillsborough,32028
+1650,238,1966,Group 1,London ,Wembley Stadium,69237
+1653,238,1966,Group 1,London ,White City,45662
+1656,238,1966,Group 2,Sheffield ,Hillsborough,36127
+1659,536,1966,Semi-finals,Liverpool ,Goodison Park,38273
+1660,239,1966,Quarter-finals,Sheffield ,Hillsborough,40007
+1675,238,1966,Group 3,Manchester ,Old Trafford Stadium,29886
+1676,239,1966,Quarter-finals,Sunderland ,Roker Park Ground,26844
+1679,238,1966,Group 4,Middlesbrough ,Ayresome Park,17829
+1682,238,1966,Group 4,Sunderland ,Roker Park Ground,27793
+1689,238,1966,Group 1,London ,Wembley Stadium,61112
+1702,239,1966,Quarter-finals,Liverpool ,Goodison Park,40248
+1709,3479,1966,Match for third place,London ,Wembley Stadium,87696
+1710,238,1966,Group 4,Middlesbrough ,Ayresome Park,23006
+1747,250,1970,Group 1,Mexico City ,Estadio Azteca,92205
+1752,250,1970,Group 1,Mexico City ,Estadio Azteca,108192
+1753,250,1970,Group 1,Mexico City ,Estadio Azteca,95261
+1764,250,1970,Group 3,Guadalajara ,Jalisco,66843
+1765,3476,1970,Final,Mexico City ,Estadio Azteca,107412
+1768,251,1970,Quarter-finals,Guadalajara ,Jalisco,54233
+1769,250,1970,Group 3,Guadalajara ,Jalisco,50804
+1770,250,1970,Group 3,Guadalajara ,Jalisco,52897
+1771,569,1970,Semi-finals,Guadalajara ,Jalisco,51261
+1774,250,1970,Group 4,Leon ,Nou Camp - Estadio Le�n,12710
+1779,250,1970,Group 4,Leon ,Nou Camp - Estadio Le�n,12299
+1780,250,1970,Group 4,Leon ,Nou Camp - Estadio Le�n,13765
+1811,251,1970,Quarter-finals,Leon ,Nou Camp - Estadio Le�n,23357
+1812,250,1970,Group 3,Guadalajara ,Jalisco,50560
+1813,250,1970,Group 3,Guadalajara ,Jalisco,49292
+1820,250,1970,Group 1,Mexico City ,Estadio Azteca,103058
+1823,250,1970,Group 1,Mexico City ,Estadio Azteca,89979
+1838,569,1970,Semi-finals,Mexico City ,Estadio Azteca,102444
+1839,250,1970,Group 4,Leon ,Nou Camp - Estadio Le�n,12942
+1840,250,1970,Group 4,Leon ,Nou Camp - Estadio Le�n,17875
+1843,3477,1970,Match for third place,Mexico City ,Estadio Azteca,104403
+1877,250,1970,Group 2,Toluca ,Luis Dosal,9890
+1880,250,1970,Group 2,Toluca ,Luis Dosal,9624
+1881,250,1970,Group 2,Puebla ,Cuauhtemoc,20654
+1882,251,1970,Quarter-finals,Toluca ,Luis Dosal,26851
+1883,250,1970,Group 2,Toluca ,Luis Dosal,13433
+1884,250,1970,Group 2,Puebla ,Cuauhtemoc,29968
+1893,250,1970,Group 4,Leon ,Nou Camp - Estadio Le�n,13537
+1902,250,1970,Group 1,Mexico City ,Estadio Azteca,107160
+1919,250,1970,Group 3,Guadalajara ,Jalisco,56818
+1922,250,1970,Group 2,Puebla ,Cuauhtemoc,18163
+1925,251,1970,Quarter-finals,Mexico City ,Estadio Azteca,26085
+1945,263,1974,Group A,Hanover ,Niedersachsenstadion,39400
+1946,263,1974,Group A,Gelsenkirchen ,Parkstadion,54254
+1947,262,1974,Group 4,Munich ,Olympiastadion,25900
+1948,263,1974,Group A,Gelsenkirchen ,Parkstadion,56548
+1949,262,1974,Group 4,Stuttgart ,Neckarstadion,70100
+1952,262,1974,Group 4,Stuttgart ,Neckarstadion,32700
+1953,262,1974,Group 1,Berlin West ,Olympiastadion,17400
+1954,262,1974,Group 1,Hamburg ,Volksparkstadion,53300
+1955,262,1974,Group 1,Hamburg ,Volksparkstadion,17000
+1982,263,1974,Group A,Hanover ,Niedersachsenstadion,59863
+1983,263,1974,Group A,Dortmund ,Westfalenstadion,53700
+1984,264,1974,Match for third place,Munich ,Olympiastadion,77100
+1985,262,1974,Group 2,Frankfurt/Main ,Waldstadion,62000
+1986,262,1974,Group 2,Frankfurt/Main ,Waldstadion,62000
+1987,262,1974,Group 2,Gelsenkirchen ,Parkstadion,36200
+1990,262,1974,Group 3,Dortmund ,Westfalenstadion,53300
+1995,262,1974,Group 3,D�Sseldorf ,Rheinstadion,23800
+1996,262,1974,Group 3,Hanover ,Niedersachsenstadion,13400
+2003,262,1974,Group 1,Berlin West ,Olympiastadion,81100
+2004,262,1974,Group 1,Berlin West ,Olympiastadion,28300
+2062,262,1974,Group 1,Hamburg ,Volksparkstadion,60200
+2063,605,1974,Final,Munich ,Olympiastadion,78200
+2064,263,1974,Group B,Frankfurt/Main ,Waldstadion,62000
+2065,263,1974,Group B,D�Sseldorf ,Rheinstadion,67800
+2066,263,1974,Group B,D�Sseldorf ,Rheinstadion,67385
+2067,263,1974,Group A,Gelsenkirchen ,Parkstadion,68348
+2083,262,1974,Group 4,Munich ,Olympiastadion,53000
+2085,262,1974,Group 4,Munich ,Olympiastadion,25300
+2097,262,1974,Group 3,Dortmund ,Westfalenstadion,53700
+2098,262,1974,Group 3,Hanover ,Niedersachsenstadion,55100
+2129,262,1974,Group 4,Stuttgart ,Neckarstadion,70100
+2167,263,1974,Group B,Stuttgart ,Neckarstadion,44955
+2170,263,1974,Group B,Frankfurt/Main ,Waldstadion,58000
+2175,262,1974,Group 2,Frankfurt/Main ,Waldstadion,56000
+2176,262,1974,Group 2,Dortmund ,Westfalenstadion,27000
+2181,262,1974,Group 3,D�Sseldorf ,Rheinstadion,28300
+2182,263,1974,Group B,D�Sseldorf ,Rheinstadion,41300
+2186,262,1974,Group 2,Gelsenkirchen ,Parkstadion,31700
+2196,279,1978,Group B,Rosario ,Arroyito - Estadio Dr. Lisandro de la Torre,37326
+2197,278,1978,Group 1,Buenos Aires ,El Monumental - Estadio Monumental Antonio Vespuci,71666
+2198,639,1978,Final,Buenos Aires ,El Monumental - Estadio Monumental Antonio Vespuci,71483
+2199,278,1978,Group 1,Buenos Aires ,El Monumental - Estadio Monumental Antonio Vespuci,71615
+2200,278,1978,Group 1,Buenos Aires ,El Monumental - Estadio Monumental Antonio Vespuci,71712
+2201,279,1978,Group B,Rosario ,Arroyito - Estadio Dr. Lisandro de la Torre,37315
+2202,279,1978,Group B,Rosario ,Arroyito - Estadio Dr. Lisandro de la Torre,37091
+2215,278,1978,Group 3,Mar Del Plata ,Estadio Jos� Mar�a Minella,35221
+2216,278,1978,Group 3,Buenos Aires ,Jose Amalfitani,40841
+2217,279,1978,Group A,Cordoba ,Estadio Ol�mpico Chateau Carreras,38318
+2220,279,1978,Group A,Cordoba ,Estadio Ol�mpico Chateau Carreras,25050
+2221,279,1978,Group A,Buenos Aires ,El Monumental - Estadio Monumental Antonio Vespuci,66695
+2224,278,1978,Group 3,Buenos Aires ,Jose Amalfitani,41424
+2246,278,1978,Group 3,Mar Del Plata ,Estadio Jos� Mar�a Minella,34771
+2247,280,1978,Match for third place,Buenos Aires ,El Monumental - Estadio Monumental Antonio Vespuci,69659
+2251,279,1978,Group B,Mendoza ,San Martin,31278
+2252,279,1978,Group B,Mendoza ,San Martin,39586
+2253,278,1978,Group 3,Mar Del Plata ,Estadio Jos� Mar�a Minella,32569
+2337,278,1978,Group 3,Buenos Aires ,Jose Amalfitani,42132
+2344,278,1978,Group 1,Mar Del Plata ,Estadio Jos� Mar�a Minella,23127
+2347,278,1978,Group 1,Mar Del Plata ,Estadio Jos� Mar�a Minella,42373
+2348,279,1978,Group A,Cordoba ,Estadio Ol�mpico Chateau Carreras,40750
+2349,279,1978,Group A,Buenos Aires ,El Monumental - Estadio Monumental Antonio Vespuci,67547
+2350,278,1978,Group 2,Cordoba ,Estadio Ol�mpico Chateau Carreras,35258
+2351,278,1978,Group 2,Buenos Aires ,El Monumental - Estadio Monumental Antonio Vespuci,67579
+2352,278,1978,Group 2,Cordoba ,Estadio Ol�mpico Chateau Carreras,30667
+2388,278,1978,Group 4,Mendoza ,San Martin,33431
+2391,279,1978,Group A,Buenos Aires ,El Monumental - Estadio Monumental Antonio Vespuci,67433
+2394,278,1978,Group 4,Mendoza ,San Martin,28125
+2395,278,1978,Group 4,Mendoza ,San Martin,35130
+2396,278,1978,Group 1,Mar Del Plata ,Estadio Jos� Mar�a Minella,26533
+2405,278,1978,Group 4,Cordoba ,Estadio Ol�mpico Chateau Carreras,21262
+2408,278,1978,Group 4,Cordoba ,Estadio Ol�mpico Chateau Carreras,7938
+2431,278,1978,Group 2,Rosario ,Arroyito - Estadio Dr. Lisandro de la Torre,22651
+2433,278,1978,Group 2,Rosario ,Arroyito - Estadio Dr. Lisandro de la Torre,17396
+2450,279,1978,Group B,Mendoza ,San Martin,35288
+2451,278,1978,Group 4,Cordoba ,Estadio Ol�mpico Chateau Carreras,37927
+2454,278,1978,Group 2,Rosario ,Arroyito - Estadio Dr. Lisandro de la Torre,9624
+3049,337,1994,Group C,Chicago ,Soldier Field,63117
+3050,337,1994,Group C,Dallas ,Cotton Bowl,56247
+3051,337,1994,Group A,Detroit ,Pontiac Silverdome,73425
+3052,337,1994,Group E,New York/New Jersey ,Giants Stadium,75338
+3053,337,1994,Group A,Los Angeles ,Rose Bowl,91856
+3054,337,1994,Group F,Orlando ,Citrus Bowl,61219
+3055,337,1994,Group E,Washington Dc ,RFK Stadium,52395
+3056,337,1994,Group B,Los Angeles ,Rose Bowl,93194
+3057,337,1994,Group B,San Francisco ,Stanford Stadium,81061
+3058,337,1994,Group F,Washington Dc ,RFK Stadium,50535
+3059,337,1994,Group D,Boston ,Foxboro Stadium,54456
+3060,337,1994,Group C,Chicago ,Soldier Field,63113
+3061,337,1994,Group D,Dallas ,Cotton Bowl,44132
+3062,337,1994,Group A,Detroit ,Pontiac Silverdome,61428
+3063,337,1994,Group A,Los Angeles ,Rose Bowl,93869
+3064,337,1994,Group E,New York/New Jersey ,Giants Stadium,74624
+3065,337,1994,Group C,Boston ,Foxboro Stadium,54453
+3066,337,1994,Group E,Orlando ,Citrus Bowl,60790
+3067,337,1994,Group B,San Francisco ,Stanford Stadium,83401
+3068,337,1994,Group B,Detroit ,Pontiac Silverdome,71528
+3069,337,1994,Group F,Orlando ,Citrus Bowl,62387
+3070,337,1994,Group F,New York/New Jersey ,Giants Stadium,76322
+3071,337,1994,Group D,Boston ,Foxboro Stadium,54453
+3072,337,1994,Group D,Chicago ,Soldier Field,63160
+3073,337,1994,Group A,Los Angeles ,Rose Bowl,93869
+3074,337,1994,Group A,San Francisco ,Stanford Stadium,83401
+3075,337,1994,Group C,Chicago ,Soldier Field,63089
+3076,337,1994,Group C,Dallas ,Cotton Bowl,63998
+3077,337,1994,Group E,New York/New Jersey ,Giants Stadium,72404
+3078,337,1994,Group E,Washington Dc ,RFK Stadium,52535
+3079,337,1994,Group B,San Francisco ,Stanford Stadium,74914
+3080,337,1994,Group B,Detroit ,Pontiac Silverdome,77217
+3081,337,1994,Group F,Orlando ,Citrus Bowl,60578
+3082,337,1994,Group F,Washington Dc ,RFK Stadium,52959
+3083,337,1994,Group D,Boston ,Foxboro Stadium,53001
+3084,337,1994,Group D,Dallas ,Cotton Bowl,63998
+3085,338,1994,Round of 16,Chicago ,Soldier Field,60246
+3086,338,1994,Round of 16,Washington Dc ,RFK Stadium,53121
+3087,338,1994,Round of 16,Dallas ,Cotton Bowl,60277
+3088,338,1994,Round of 16,Los Angeles ,Rose Bowl,90469
+3089,338,1994,Round of 16,Orlando ,Citrus Bowl,61355
+3090,338,1994,Round of 16,San Francisco ,Stanford Stadium,84147
+3091,338,1994,Round of 16,Boston ,Foxboro Stadium,54367
+3092,338,1994,Round of 16,New York/New Jersey ,Giants Stadium,71030
+3095,796,1994,Quarter-finals,San Francisco ,Stanford Stadium,83500
+3096,796,1994,Quarter-finals,New York/New Jersey ,Giants Stadium,72000
+3097,796,1994,Quarter-finals,Boston ,Foxboro Stadium,53400
+3098,796,1994,Quarter-finals,Dallas ,Cotton Bowl,63500
+3099,3461,1994,Semi-finals,Los Angeles ,Rose Bowl,91856
+3100,3461,1994,Semi-finals,New York/New Jersey ,Giants Stadium,74110
+3103,3460,1994,Match for third place,Los Angeles ,Rose Bowl,91500
+3104,3459,1994,Final,Los Angeles ,Rose Bowl,94194
+4000,1014,1998,Group A,Saint-Denis ,Stade de France,80000
+8725,1014,1998,Group A,Montpellier ,La Mosson,29800
+8726,1014,1998,Group B,Bordeaux ,Stade du Parc Lescure,31800
+8727,1014,1998,Group B,Toulouse ,Stade Municipal,33500
+8728,1014,1998,Group D,Montpellier ,La Mosson,29800
+8729,1014,1998,Group C,Lens ,Stade Felix Bollaert,38100
+8730,1014,1998,Group C,Marseilles ,Stade V�lodrome,55000
+8731,1014,1998,Group D,Nantes ,La Beaujoire,35500
+8732,1014,1998,Group E,Lyon ,Stade de Gerland,39100
+8733,1014,1998,Group E,Saint-Denis ,Stade de France,77000
+8734,1014,1998,Group H,Toulouse ,Stade Municipal,33500
+8735,1014,1998,Group F,Saint-Etienne ,Stade Geoffroy Guichard,30600
+8736,1014,1998,Group H,Lens ,Stade Felix Bollaert,38100
+8738,1014,1998,Group F,Paris ,Parc des Princes,45500
+8739,1014,1998,Group G,Lyon ,Stade de Gerland,39100
+8740,1014,1998,Group G,Marseilles ,Stade V�lodrome,55000
+8741,1014,1998,Group A,Bordeaux ,Stade du Parc Lescure,31800
+8742,1014,1998,Group A,Nantes ,La Beaujoire,35500
+8743,1014,1998,Group B,Saint-Etienne ,Stade Geoffroy Guichard,30600
+8744,1014,1998,Group B,Montpellier ,La Mosson,29800
+8745,1014,1998,Group C,Saint-Denis ,Stade de France,80000
+8746,1014,1998,Group C,Toulouse ,Stade Municipal,33500
+8747,1014,1998,Group D,Paris ,Parc des Princes,45500
+8748,1014,1998,Group D,Saint-Etienne ,Stade Geoffroy Guichard,30600
+8749,1014,1998,Group E,Marseilles ,Stade V�lodrome,55000
+8750,1014,1998,Group E,Bordeaux ,Stade du Parc Lescure,31800
+8751,1014,1998,Group H,Nantes ,La Beaujoire,35500
+8752,1014,1998,Group H,Paris ,Parc des Princes,45500
+8753,1014,1998,Group F,Lens ,Stade Felix Bollaert,38100
+8754,1014,1998,Group F,Lyon ,Stade de Gerland,39100
+8755,1014,1998,Group G,Montpellier ,La Mosson,29800
+8756,1014,1998,Group G,Toulouse ,Stade Municipal,33500
+8757,1014,1998,Group B,Saint-Denis ,Stade de France,80000
+8758,1014,1998,Group A,Saint-Etienne ,Stade Geoffroy Guichard,30600
+8759,1014,1998,Group A,Marseilles ,Stade V�lodrome,55000
+8760,1014,1998,Group B,Nantes ,La Beaujoire,35500
+8761,1014,1998,Group D,Lens ,Stade Felix Bollaert,38100
+8762,1014,1998,Group C,Lyon ,Stade de Gerland,39100
+8763,1014,1998,Group D,Toulouse ,Stade Municipal,33500
+8764,1014,1998,Group C,Bordeaux ,Stade du Parc Lescure,31800
+8765,1014,1998,Group E,Paris ,Parc des Princes,45500
+8766,1014,1998,Group E,Saint-Etienne ,Stade Geoffroy Guichard,30600
+8767,1014,1998,Group F,Montpellier ,La Mosson,29800
+8768,1014,1998,Group F,Nantes ,La Beaujoire,35500
+8769,1014,1998,Group G,Saint-Denis ,Stade de France,77000
+8770,1014,1998,Group G,Lens ,Stade Felix Bollaert,38100
+8771,1014,1998,Group H,Lyon ,Stade de Gerland,39100
+8772,1014,1998,Group H,Bordeaux ,Stade du Parc Lescure,31800
+8773,1024,1998,Round of 16,Paris ,Parc des Princes,45500
+8774,1024,1998,Round of 16,Marseilles ,Stade V�lodrome,55000
+8775,1024,1998,Round of 16,Saint-Denis ,Stade de France,77000
+8776,1024,1998,Round of 16,Lens ,Stade Felix Bollaert,31800
+8777,1024,1998,Round of 16,Montpellier ,La Mosson,29800
+8778,1024,1998,Round of 16,Toulouse ,Stade Municipal,33500
+8779,1024,1998,Round of 16,Saint-Etienne ,Stade Geoffroy Guichard,30600
+8780,1024,1998,Round of 16,Bordeaux ,Stade du Parc Lescure,31800
+8781,1025,1998,Quarter-finals,Saint-Denis ,Stade de France,77000
+8782,1025,1998,Quarter-finals,Nantes ,La Beaujoire,35500
+8783,1025,1998,Quarter-finals,Lyon ,Stade de Gerland,39100
+8784,1025,1998,Quarter-finals,Marseilles ,Stade V�lodrome,55000
+8785,1026,1998,Semi-finals,Marseilles ,Stade V�lodrome,54000
+8786,1026,1998,Semi-finals,Saint-Denis ,Stade de France,76000
+8787,1028,1998,Match for third place,Paris ,Parc des Princes,45500
+8788,1027,1998,Final,Saint-Denis ,Stade de France,80000
+43950001,43950100,2002,Group A,Seoul ,Seoul World Cup Stadium,62561
+43950002,43950100,2002,Group E,Niigata ,Niigata Stadium Big Swan,33679
+43950003,43950100,2002,Group A,Ulsan ,Munsu Football Stadium,30157
+43950004,43950100,2002,Group E,Sapporo ,Sapporo Dome,32218
+43950005,43950100,2002,Group F,Saitama ,Saitama Stadium 2002,52721
+43950006,43950100,2002,Group B,Busan ,Busan Asiad Main Stadium,25186
+43950007,43950100,2002,Group F,Ibaraki ,Kashima Stadium,34050
+43950008,43950100,2002,Group B,Gwangju ,Gwangju World Cup Stadium,28598
+43950009,43950100,2002,Group G,Niigata ,Niigata Stadium Big Swan,32239
+43950010,43950100,2002,Group C,Ulsan ,Munsu Football Stadium,33842
+43950011,43950100,2002,Group G,Sapporo ,Sapporo Dome,31081
+43950012,43950100,2002,Group C,Gwangju ,Gwangju World Cup Stadium,27217
+43950013,43950100,2002,Group H,Saitama ,Saitama Stadium 2002,55256
+43950014,43950100,2002,Group D,Busan ,Busan Asiad Main Stadium,48760
+43950015,43950100,2002,Group H,Kobe ,Kobe Wing Stadium,30957
+43950016,43950100,2002,Group D,Suwon ,Suwon World Cup Stadium,37306
+43950017,43950100,2002,Group E,Ibaraki ,Kashima Stadium,35854
+43950018,43950100,2002,Group A,Busan ,Busan Asiad Main Stadium,38289
+43950019,43950100,2002,Group E,Saitama ,Saitama Stadium 2002,52328
+43950020,43950100,2002,Group A,Daegu ,Daegu World Cup Stadium,43500
+43950021,43950100,2002,Group F,Kobe ,Kobe Wing Stadium,36194
+43950022,43950100,2002,Group B,Jeonju ,Jeonju World Cup Stadium,24000
+43950023,43950100,2002,Group F,Sapporo ,Sapporo Dome,35927
+43950024,43950100,2002,Group B,Daegu ,Daegu World Cup Stadium,47226
+43950025,43950100,2002,Group G,Ibaraki ,Kashima Stadium,36472
+43950026,43950100,2002,Group C,Jeju ,Jeju World Cup Stadium,36750
+43950027,43950100,2002,Group G,Rifu ,Miyagi Stadium,45610
+43950028,43950100,2002,Group C,Incheon ,Incheon Football Stadium,42299
+43950029,43950100,2002,Group H,Yokohama ,International Stadium Yokohama,66108
+43950030,43950100,2002,Group D,Daegu ,Daegu World Cup Stadium,60778
+43950031,43950100,2002,Group H,Oita ,Oita Stadium Big Eye,39700
+43950032,43950100,2002,Group D,Jeonju ,Jeonju World Cup Stadium,31000
+43950033,43950100,2002,Group A,Incheon ,Incheon Football Stadium,48100
+43950034,43950100,2002,Group A,Suwon ,Suwon World Cup Stadium,33681
+43950035,43950100,2002,Group E,Shizuoka ,Shizuoka Stadium Ecopa,47085
+43950036,43950100,2002,Group E,Yokohama ,International Stadium Yokohama,65320
+43950037,43950100,2002,Group F,Rifu ,Miyagi Stadium,45777
+43950038,43950100,2002,Group F,Osaka ,Osaka Nagai Stadium,44864
+43950039,43950100,2002,Group B,Daejeon ,Daejeon World Cup Stadium,31024
+43950040,43950100,2002,Group B,Jeju ,Jeju World Cup Stadium,30176
+43950041,43950100,2002,Group C,Suwon ,Suwon World Cup Stadium,38524
+43950042,43950100,2002,Group C,Seoul ,Seoul World Cup Stadium,43605
+43950043,43950100,2002,Group G,Oita ,Oita Stadium Big Eye,39291
+43950044,43950100,2002,Group G,Yokohama ,International Stadium Yokohama,65862
+43950045,43950100,2002,Group H,Osaka ,Osaka Nagai Stadium,45213
+43950046,43950100,2002,Group H,Shizuoka ,Shizuoka Stadium Ecopa,46640
+43950047,43950100,2002,Group D,Incheon ,Incheon Football Stadium,50239
+43950048,43950100,2002,Group D,Daejeon ,Daejeon World Cup Stadium,26482
+43950049,43950200,2002,Round of 16,Jeju ,Jeju World Cup Stadium,25176
+43950050,43950200,2002,Round of 16,Niigata ,Niigata Stadium Big Swan,40582
+43950051,43950200,2002,Round of 16,Oita ,Oita Stadium Big Eye,39747
+43950052,43950200,2002,Round of 16,Suwon ,Suwon World Cup Stadium,38926
+43950053,43950200,2002,Round of 16,Jeonju ,Jeonju World Cup Stadium,36380
+43950054,43950200,2002,Round of 16,Kobe ,Kobe Wing Stadium,40440
+43950055,43950200,2002,Round of 16,Rifu ,Miyagi Stadium,45666
+43950056,43950200,2002,Round of 16,Daejeon ,Daejeon World Cup Stadium,38588
+43950057,43950300,2002,Quarter-finals,Shizuoka ,Shizuoka Stadium Ecopa,47436
+43950058,43950300,2002,Quarter-finals,Ulsan ,Munsu Football Stadium,37337
+43950059,43950300,2002,Quarter-finals,Gwangju ,Gwangju World Cup Stadium,42114
+43950060,43950300,2002,Quarter-finals,Osaka ,Osaka Nagai Stadium,44233
+43950061,43950400,2002,Semi-finals,Seoul ,Seoul World Cup Stadium,65256
+43950062,43950400,2002,Semi-finals,Saitama ,Saitama Stadium 2002,61058
+43950063,43950500,2002,Third place,Daegu ,Daegu World Cup Stadium,63483
+43950064,43950600,2002,Final,Yokohama ,International Stadium Yokohama,69029
+97410001,97410100,2006,Group A,Munich ,"FIFA World Cup Stadium, Munich",66000
+97410002,97410100,2006,Group A,Gelsenkirchen ,"FIFA World Cup Stadium, Gelsenkirchen",52000
+97410003,97410100,2006,Group B,Frankfurt/Main ,"FIFA World Cup Stadium, Frankfurt",48000
+97410004,97410100,2006,Group B,Dortmund ,"FIFA World Cup Stadium, Dortmund",62959
+97410005,97410100,2006,Group C,Hamburg ,"FIFA World Cup Stadium, Hamburg",49480
+97410006,97410100,2006,Group C,Leipzig ,Zentralstadion,43000
+97410007,97410100,2006,Group D,Nuremberg ,Franken-Stadion,41000
+97410008,97410100,2006,Group D,Cologne ,"FIFA World Cup Stadium, Cologne",45000
+97410009,97410100,2006,Group E,Hanover ,"FIFA World Cup Stadium, Hanover",43000
+97410010,97410100,2006,Group E,Gelsenkirchen ,"FIFA World Cup Stadium, Gelsenkirchen",52000
+97410011,97410100,2006,Group F,Berlin ,Olympiastadion,72000
+97410012,97410100,2006,Group F,Kaiserslautern ,Fritz-Walter-Stadion,46000
+97410013,97410100,2006,Group G,Stuttgart ,Gottlieb-Daimler-Stadion,52000
+97410014,97410100,2006,Group G,Frankfurt/Main ,"FIFA World Cup Stadium, Frankfurt",48000
+97410015,97410100,2006,Group H,Leipzig ,Zentralstadion,43000
+97410016,97410100,2006,Group H,Munich ,"FIFA World Cup Stadium, Munich",66000
+97410017,97410100,2006,Group A,Dortmund ,"FIFA World Cup Stadium, Dortmund",65000
+97410018,97410100,2006,Group A,Hamburg ,"FIFA World Cup Stadium, Hamburg",50000
+97410019,97410100,2006,Group B,Nuremberg ,Franken-Stadion,41000
+97410020,97410100,2006,Group B,Berlin ,Olympiastadion,72000
+97410021,97410100,2006,Group C,Gelsenkirchen ,"FIFA World Cup Stadium, Gelsenkirchen",52000
+97410022,97410100,2006,Group C,Stuttgart ,Gottlieb-Daimler-Stadion,52000
+97410023,97410100,2006,Group D,Hanover ,"FIFA World Cup Stadium, Hanover",43000
+97410024,97410100,2006,Group D,Frankfurt/Main ,"FIFA World Cup Stadium, Frankfurt",48000
+97410025,97410100,2006,Group E,Kaiserslautern ,Fritz-Walter-Stadion,46000
+97410026,97410100,2006,Group E,Cologne ,"FIFA World Cup Stadium, Cologne",45000
+97410027,97410100,2006,Group F,Munich ,"FIFA World Cup Stadium, Munich",66000
+97410028,97410100,2006,Group F,Nuremberg ,Franken-Stadion,41000
+97410029,97410100,2006,Group G,Leipzig ,Zentralstadion,43000
+97410030,97410100,2006,Group G,Dortmund ,"FIFA World Cup Stadium, Dortmund",65000
+97410031,97410100,2006,Group H,Stuttgart ,Gottlieb-Daimler-Stadion,52000
+97410032,97410100,2006,Group H,Hamburg ,"FIFA World Cup Stadium, Hamburg",50000
+97410033,97410100,2006,Group A,Berlin ,Olympiastadion,72000
+97410034,97410100,2006,Group A,Hanover ,"FIFA World Cup Stadium, Hanover",43000
+97410035,97410100,2006,Group B,Cologne ,"FIFA World Cup Stadium, Cologne",45000
+97410036,97410100,2006,Group B,Kaiserslautern ,Fritz-Walter-Stadion,46000
+97410037,97410100,2006,Group C,Frankfurt/Main ,"FIFA World Cup Stadium, Frankfurt",48000
+97410038,97410100,2006,Group C,Munich ,"FIFA World Cup Stadium, Munich",66000
+97410039,97410100,2006,Group D,Gelsenkirchen ,"FIFA World Cup Stadium, Gelsenkirchen",52000
+97410040,97410100,2006,Group D,Leipzig ,Zentralstadion,38000
+97410041,97410100,2006,Group E,Hamburg ,"FIFA World Cup Stadium, Hamburg",50000
+97410042,97410100,2006,Group E,Nuremberg ,Franken-Stadion,41000
+97410043,97410100,2006,Group F,Dortmund ,"FIFA World Cup Stadium, Dortmund",65000
+97410044,97410100,2006,Group F,Stuttgart ,Gottlieb-Daimler-Stadion,52000
+97410045,97410100,2006,Group G,Cologne ,"FIFA World Cup Stadium, Cologne",45000
+97410046,97410100,2006,Group G,Hanover ,"FIFA World Cup Stadium, Hanover",43000
+97410047,97410100,2006,Group H,Kaiserslautern ,Fritz-Walter-Stadion,46000
+97410048,97410100,2006,Group H,Berlin ,Olympiastadion,72000
+97410049,97410200,2006,Round of 16,Munich ,"FIFA World Cup Stadium, Munich",66000
+97410050,97410200,2006,Round of 16,Leipzig ,Zentralstadion,43000
+97410051,97410200,2006,Round of 16,Stuttgart ,Gottlieb-Daimler-Stadion,52000
+97410052,97410200,2006,Round of 16,Nuremberg ,Franken-Stadion,41000
+97410053,97410200,2006,Round of 16,Kaiserslautern ,Fritz-Walter-Stadion,46000
+97410054,97410200,2006,Round of 16,Cologne ,"FIFA World Cup Stadium, Cologne",45000
+97410055,97410200,2006,Round of 16,Dortmund ,"FIFA World Cup Stadium, Dortmund",65000
+97410056,97410200,2006,Round of 16,Hanover ,"FIFA World Cup Stadium, Hanover",43000
+97410057,97410300,2006,Quarter-finals,Berlin ,Olympiastadion,72000
+97410058,97410300,2006,Quarter-finals,Hamburg ,"FIFA World Cup Stadium, Hamburg",50000
+97410059,97410300,2006,Quarter-finals,Gelsenkirchen ,"FIFA World Cup Stadium, Gelsenkirchen",52000
+97410060,97410300,2006,Quarter-finals,Frankfurt/Main ,"FIFA World Cup Stadium, Frankfurt",48000
+97410061,97410400,2006,Semi-finals,Dortmund ,"FIFA World Cup Stadium, Dortmund",65000
+97410062,97410400,2006,Semi-finals,Munich ,"FIFA World Cup Stadium, Munich",66000
+97410063,97410500,2006,Third place,Stuttgart ,Gottlieb-Daimler-Stadion,52000
+97410064,97410600,2006,Final,Berlin ,Olympiastadion,69000
+300061449,249722,2010,Group A,Mangaung/Bloemfontein ,Free State Stadium,39415
+300061450,249722,2010,Group A,Phokeng ,Royal Bafokeng Sports Palace,33425
+300061451,249722,2010,Group A,Polokwane ,Peter Mokaba Stadium,35370
+300061452,249722,2010,Group A,Tshwane/Pretoria ,Loftus Versfeld Stadium,42658
+300061453,249722,2010,Group A,Cape Town ,Cape Town Stadium,64100
+300061454,249722,2010,Group A,Johannesburg ,Soccer City Stadium,84490
+300061455,249722,2010,Group B,Polokwane ,Peter Mokaba Stadium,38891
+300061457,249722,2010,Group B,Mangaung/Bloemfontein ,Free State Stadium,31593
+300061458,249722,2010,Group B,Johannesburg ,Soccer City Stadium,82174
+300061459,249722,2010,Group B,Nelson Mandela Bay/Port Elizabeth ,Port Elizabeth Stadium,31513
+300061460,249722,2010,Group B,Johannesburg ,Ellis Park Stadium,55686
+300061461,249722,2010,Group C,Tshwane/Pretoria ,Loftus Versfeld Stadium,35827
+300061462,249722,2010,Group C,Nelson Mandela Bay/Port Elizabeth ,Port Elizabeth Stadium,36893
+300061463,249722,2010,Group C,Johannesburg ,Ellis Park Stadium,45573
+300061464,249722,2010,Group C,Cape Town ,Cape Town Stadium,64100
+300061465,249722,2010,Group C,Polokwane ,Peter Mokaba Stadium,30325
+300061466,249722,2010,Group C,Phokeng ,Royal Bafokeng Sports Palace,38646
+300061467,249722,2010,Group D,Nelspruit ,Mbombela Stadium,37836
+300061468,249722,2010,Group D,Johannesburg ,Soccer City Stadium,83391
+300061469,249722,2010,Group D,Phokeng ,Royal Bafokeng Sports Palace,34812
+300061470,249722,2010,Group D,Nelson Mandela Bay/Port Elizabeth ,Port Elizabeth Stadium,38294
+300061471,249722,2010,Group D,Tshwane/Pretoria ,Loftus Versfeld Stadium,38833
+300061473,249722,2010,Group E,Cape Town ,Cape Town Stadium,63093
+300061474,249722,2010,Group E,Phokeng ,Royal Bafokeng Sports Palace,27967
+300061475,249722,2010,Group E,Tshwane/Pretoria ,Loftus Versfeld Stadium,38074
+300061477,249722,2010,Group E,Mangaung/Bloemfontein ,Free State Stadium,30620
+300061478,249722,2010,Group E,Johannesburg ,Soccer City Stadium,83465
+300061479,249722,2010,Group F,Polokwane ,Peter Mokaba Stadium,34850
+300061480,249722,2010,Group F,Johannesburg ,Ellis Park Stadium,53412
+300061481,249722,2010,Group F,Mangaung/Bloemfontein ,Free State Stadium,26643
+300061482,249722,2010,Group F,Nelspruit ,Mbombela Stadium,38229
+300061483,249722,2010,Group F,Phokeng ,Royal Bafokeng Sports Palace,23871
+300061484,249722,2010,Group F,Cape Town ,Cape Town Stadium,62869
+300061486,249722,2010,Group G,Nelspruit ,Mbombela Stadium,34763
+300061487,249722,2010,Group G,Cape Town ,Cape Town Stadium,63644
+300061488,249722,2010,Group G,Johannesburg ,Soccer City Stadium,84455
+300061489,249722,2010,Group G,Nelson Mandela Bay/Port Elizabeth ,Port Elizabeth Stadium,37034
+300061490,249722,2010,Group G,Johannesburg ,Ellis Park Stadium,54331
+300061491,249722,2010,Group H,Tshwane/Pretoria ,Loftus Versfeld Stadium,41958
+300061492,249722,2010,Group H,Mangaung/Bloemfontein ,Free State Stadium,28042
+300061493,249722,2010,Group H,Nelson Mandela Bay/Port Elizabeth ,Port Elizabeth Stadium,34872
+300061494,249722,2010,Group H,Johannesburg ,Ellis Park Stadium,54386
+300061495,249722,2010,Group H,Nelspruit ,Mbombela Stadium,32664
+300061497,249717,2010,Round of 16,Tshwane/Pretoria ,Loftus Versfeld Stadium,36742
+300061498,249717,2010,Round of 16,Cape Town ,Cape Town Stadium,62955
+300061500,249717,2010,Round of 16,Johannesburg ,Ellis Park Stadium,54096
+300061501,249717,2010,Round of 16,Mangaung/Bloemfontein ,Free State Stadium,40510
+300061502,249717,2010,Round of 16,Johannesburg ,Soccer City Stadium,84377
+300061503,249717,2010,Round of 16,Phokeng ,Royal Bafokeng Sports Palace,34976
+300061504,249717,2010,Round of 16,Nelson Mandela Bay/Port Elizabeth ,Port Elizabeth Stadium,30597
+300061505,249718,2010,Quarter-finals,Cape Town ,Cape Town Stadium,64100
+300061506,249718,2010,Quarter-finals,Johannesburg ,Ellis Park Stadium,55359
+300061507,249718,2010,Quarter-finals,Nelson Mandela Bay/Port Elizabeth ,Port Elizabeth Stadium,40186
+300061508,249718,2010,Quarter-finals,Johannesburg ,Soccer City Stadium,84017
+300061509,249721,2010,Final,Johannesburg ,Soccer City Stadium,84490
+300061510,249720,2010,Match for third place,Nelson Mandela Bay/Port Elizabeth ,Port Elizabeth Stadium,36254
+300061512,249719,2010,Semi-finals,Cape Town ,Cape Town Stadium,62479
+300111111,249722,2010,Group G,Durban ,Durban Stadium,62712
+300111112,249722,2010,Group H,Durban ,Durban Stadium,62453
+300111113,249717,2010,Round of 16,Durban ,Durban Stadium,61962
+300111114,249719,2010,Semi-finals,Durban ,Durban Stadium,60960
+300111115,249722,2010,Group B,Durban ,Durban Stadium,61874
+300111116,249722,2010,Group D,Durban ,Durban Stadium,62660
+300111117,249722,2010,Group E,Durban ,Durban Stadium,62010
+300186452,255931,2014,Group A,Recife ,Arena Pernambuco,41212
+300186453,255931,2014,Group A,Manaus ,Arena Amazonia,39982
+300186454,255931,2014,Group C,Natal ,Estadio das Dunas,39485
+300186455,255931,2014,Group C,Fortaleza ,Estadio Castelao,59095
+300186456,255931,2014,Group A,Sao Paulo ,Arena de Sao Paulo,62103
+300186457,255931,2014,Group C,Cuiaba ,Arena Pantanal,40340
+300186458,255931,2014,Group F,Porto Alegre ,Estadio Beira-Rio,43285
+300186459,255951,2014,Round of 16,Recife ,Arena Pernambuco,41242
+300186459,255951,2014,Round of 16,Recife ,Arena Pernambuco,41242
+300186460,255951,2014,Round of 16,Porto Alegre ,Estadio Beira-Rio,0
+300186460,255951,2014,Round of 16,Porto Alegre ,Estadio Beira-Rio,0
+300186461,255953,2014,Quarter-finals,Fortaleza ,Estadio Castelao,60342
+300186461,255953,2014,Quarter-finals,Fortaleza ,Estadio Castelao,60342
+300186462,255951,2014,Round of 16,Brasilia ,Estadio Nacional,67882
+300186462,255951,2014,Round of 16,Brasilia ,Estadio Nacional,67882
+300186463,255931,2014,Group E,Curitiba ,Arena da Baixada,39224
+300186464,255931,2014,Group F,Salvador ,Arena Fonte Nova,48011
+300186465,255931,2014,Group D,Natal ,Estadio das Dunas,39706
+300186466,255931,2014,Group F,Belo Horizonte ,Estadio Mineirao,57698
+300186467,255931,2014,Group B,Curitiba ,Arena da Baixada,39375
+300186468,255931,2014,Group C,Brasilia ,Estadio Nacional,68748
+300186469,255931,2014,Group G,Recife ,Arena Pernambuco,41876
+300186470,255931,2014,Group B,Sao Paulo ,Arena de Sao Paulo,62996
+300186471,255931,2014,Group C,Belo Horizonte ,Estadio Mineirao,57174
+300186472,255931,2014,Group A,Brasilia ,Estadio Nacional,69112
+300186473,255931,2014,Group B,Cuiaba ,Arena Pantanal,40275
+300186474,255955,2014,Semi-finals,Belo Horizonte ,Estadio Mineirao,58141
+300186474,255955,2014,Semi-finals,Belo Horizonte ,Estadio Mineirao,58141
+300186475,255931,2014,Group G,Salvador ,Arena Fonte Nova,51081
+300186476,255931,2014,Group G,Brasilia ,Estadio Nacional,67540
+300186477,255931,2014,Group F,Rio De Janeiro ,Estadio do Maracana,74738
+300186478,255931,2014,Group B,Porto Alegre ,Estadio Beira-Rio,42877
+300186479,255931,2014,Group H,Belo Horizonte ,Estadio Mineirao,56800
+300186480,255931,2014,Group H,Sao Paulo ,Arena de Sao Paulo,61397
+300186481,255931,2014,Group H,Rio De Janeiro ,Estadio do Maracana,73819
+300186482,255931,2014,Group E,Manaus ,Arena Amazonia,40322
+300186483,255931,2014,Group G,Manaus ,Arena Amazonia,40123
+300186484,255931,2014,Group D,Belo Horizonte ,Estadio Mineirao,57823
+300186485,255953,2014,Quarter-finals,Rio De Janeiro ,Estadio do Maracana,74240
+300186485,255953,2014,Quarter-finals,Rio De Janeiro ,Estadio do Maracana,74240
+300186486,255931,2014,Group D,Sao Paulo ,Arena de Sao Paulo,62575
+300186487,255951,2014,Round of 16,Belo Horizonte ,Estadio Mineirao,57714
+300186487,255951,2014,Round of 16,Belo Horizonte ,Estadio Mineirao,57714
+300186488,255953,2014,Quarter-finals,Salvador ,Arena Fonte Nova,51179
+300186488,255953,2014,Quarter-finals,Salvador ,Arena Fonte Nova,51179
+300186489,255931,2014,Group D,Fortaleza ,Estadio Castelao,58679
+300186490,255955,2014,Semi-finals,Sao Paulo ,Arena de Sao Paulo,63267
+300186490,255955,2014,Semi-finals,Sao Paulo ,Arena de Sao Paulo,63267
+300186491,255951,2014,Round of 16,Rio De Janeiro ,Estadio do Maracana,73804
+300186491,255951,2014,Round of 16,Rio De Janeiro ,Estadio do Maracana,73804
+300186492,255931,2014,Group A,Natal ,Estadio das Dunas,39216
+300186493,255931,2014,Group G,Fortaleza ,Estadio Castelao,59621
+300186494,255931,2014,Group E,Brasilia ,Estadio Nacional,68351
+300186495,255931,2014,Group H,Porto Alegre ,Estadio Beira-Rio,42732
+300186496,255931,2014,Group E,Porto Alegre ,Estadio Beira-Rio,43012
+300186497,255951,2014,Round of 16,Salvador ,Arena Fonte Nova,51227
+300186497,255951,2014,Round of 16,Salvador ,Arena Fonte Nova,51227
+300186498,255931,2014,Group B,Rio De Janeiro ,Estadio do Maracana,74101
+300186499,255931,2014,Group H,Cuiaba ,Arena Pantanal,37603
+300186500,255931,2014,Group D,Recife ,Arena Pernambuco,40285
+300186501,255959,2014,Final,Rio De Janeiro ,Estadio do Maracana,74738
+300186501,255959,2014,Final,Rio De Janeiro ,Estadio do Maracana,74738
+300186502,255957,2014,Play-off for third place,Brasilia ,Estadio Nacional,68034
+300186502,255957,2014,Play-off for third place,Brasilia ,Estadio Nacional,68034
+300186503,255951,2014,Round of 16,Sao Paulo ,Arena de Sao Paulo,63255
+300186503,255951,2014,Round of 16,Sao Paulo ,Arena de Sao Paulo,63255
+300186504,255953,2014,Quarter-finals,Brasilia ,Estadio Nacional,68551
+300186504,255953,2014,Quarter-finals,Brasilia ,Estadio Nacional,68551
+300186505,255931,2014,Group F,Curitiba ,Arena da Baixada,39081
+300186506,255931,2014,Group H,Curitiba ,Arena da Baixada,39311
+300186507,255931,2014,Group C,Recife ,Arena Pernambuco,40267
+300186508,255951,2014,Round of 16,Fortaleza ,Estadio Castelao,58817
+300186508,255951,2014,Round of 16,Fortaleza ,Estadio Castelao,58817
+300186509,255931,2014,Group A,Fortaleza ,Estadio Castelao,60342
+300186510,255931,2014,Group B,Salvador ,Arena Fonte Nova,48173
+300186511,255931,2014,Group F,Cuiaba ,Arena Pantanal,40499
+300186512,255931,2014,Group G,Natal ,Estadio das Dunas,39760
+300186513,255931,2014,Group D,Manaus ,Arena Amazonia,39800
+300186514,255931,2014,Group E,Salvador ,Arena Fonte Nova,51003
+300186515,255931,2014,Group E,Rio De Janeiro ,Estadio do Maracana,73749

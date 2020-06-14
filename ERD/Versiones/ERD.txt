@@ -1,0 +1,69 @@
+# Relationships
+
+World_Cups
+-
+cup_id INT PK FK >- Match.cup_id
+host INT FK >- Country.country_id
+attendees INT
+goals int
+teams int
+total_games int
+1_place text FK >- Country.country_id
+2_place text FK >- Country.country_id
+3_place text FK >- Country.country_id
+4_place text FK >- Country.country_id
+
+Country
+-
+country_id text PK
+name text
+starter_id INT FK >- Player.player_id
+bench_id INT FK >- Player.player_id
+coach_id INT
+
+Match
+-
+match_id INT PK
+cup_id int
+stage text
+score int
+home_id INT FK >- Country.country_id
+away_id INT FK >- Country.country_id
+referee INT FK >- Referee.referee_id
+as_1 int FK >- Referee.referee_id
+as_2 int FK >- Referee.referee_id
+city text
+stadium text
+atendees int
+
+Player
+-
+country text FK >- Country.country_id
+player_id INT PK
+name text
+shirt_no int
+
+
+Referee
+-
+referee_id INT
+name text
+country text FK >- Country.country_id
+
+Rounds
+-
+round_id int Pk
+stage text
+match_id FK >- Match.match_id
+
+Coaches
+-
+coach_id pk FK >- Country.coach_id
+name text
+
+Goals
+-
+goal pk FK >- Match.match_id
+match_id
+player_id FK >- Player.player_id
+minute

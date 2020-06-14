@@ -1,0 +1,54 @@
+﻿Jorge Alberto Muñozcano Castro
+Ernesto López Centeno
+
+
+
+ETL Project: Fifa World Cup Database Project
+
+
+Report
+
+
+1) Extraction
+
+The data was collected from the site Kaggle, where it came in three different CSV files.
+
+- Link: https://www.kaggle.com/pavanraj159/fifa-world-cup-1930-to-2014-data-analysis/data
+
+- Data sources:
+	* World Cups History: CSV file with all the history of the winneres and runners up of all the tournments celebrated in 1930-2014
+	* World Cups Matches: CSV file containing all the game data generated in the tournamentes
+	* World Cup Players: CSV file containing all the rosters of all the nationalities that were participant in the tournaments.
+
+After inspecting the information thoroughly, we decided to use a relational database because the tables had corresponding data between each other; PostgreSQL was the go-to tool.
+We created an ERD diagram to make the relation visualizations easier, which led us to divide the information into 9 sets that were to be uploaded as 9 tables in the database.
+
+
+2) Transformation:
+
+To make the database creation easier, the three data CSV's were uploaded to pandas, transformed using merges, drops, renames, concatenations and more.
+These transformations led to the creation of the desired 9 CSV's with the following names:
+
+- cups
+- country
+- coaches
+- matches
+- referees
+- events
+- players
+- rosters
+- participants
+
+ 
+Complications
+
+Many rows were duplicated.
+Some countries needed to be renamed as it changed name (such as th Federal Republic of Germany, which is now called just Germany).
+Some data that came in columns needed to be placed as labels, like the referee status (Referee, Assistant 1 or Assistant 2).
+Some event information came double, triple and even cuadruple in a single column, so it had to be split and then concatenated.
+
+
+3) Load
+
+The table structures were created using the query tool, and then the information was uploaded using the previously made CSV files.
+The schema is in the file named Tables.

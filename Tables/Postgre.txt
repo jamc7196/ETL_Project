@@ -1,0 +1,65 @@
+create table players(
+	player_id int primary key,
+	player_name text
+);
+
+create table countries(
+	country_id text primary key,
+	country_name text
+);
+
+create table cups(
+	cup_id int primary key,
+	country_id text not null,
+	foreign key (country_id) references countries(country_id),
+	attendees INT,
+	goals INT
+);
+
+create table standings(
+	cup_id int,
+	foreign key (cup_id) references cups(cup_id),
+	country_id text not null,
+	foreign key (country_id) references countries(country_id),
+	place text,
+	PRIMARY KEY (cup_id, country_id)
+);
+
+create table matches(
+	cup_id INT,
+	foreign key (cup_id) references cups(cup_id),
+	round_id INT,
+	match_id INT primary key,
+	stage TEXT,
+	city TEXT,
+	stadium TEXT,
+	attendees INT
+);
+
+create table referees(
+	referee_id serial primary key,
+	match_id INT,
+	foreign key (match_id) references matches(match_id),
+	status TEXT,
+	referee_name TEXT
+);
+
+create table roster(
+	match_id INT,
+	foreign key (match_id) references matches(match_id),
+	country_id text not null,
+	foreign key (country_id) references countries(country_id),
+	locality TEXT,
+	player_id INT,
+	foreign key (player_id) references players(player_id),
+	shirt_no INT,
+	line_up TEXT,
+	PRIMARY KEY (match_id, country_id, player_id)
+);
+
+create table events(
+	event TEXT,
+	match_id INT 
+	country_id TEXT PK FK >- Country.country_id
+	player_id INT PK FK >- Player.player_id
+)
